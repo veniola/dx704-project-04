@@ -1,0 +1,3 @@
+Ridge Regression (Code): https://github.com/veniola/dx799-jupyter-notebooks/blob/main/OMDS-ModC1-Week2-Eniola-Victoria.ipynb
+Contextual Bandits - LinUCB (Documentation) : https://contextual-bandits.readthedocs.io/en/latest/#contextualbandits.online.LinUCB
+Contextual Bandits - LinUCB (Code): https://github.com/bu-cds-omds/dx704-examples/blob/main/week04/video_visualizing_the_linucb_algorithm.ipynb
